@@ -1,0 +1,8 @@
+no vlan 4004
+no vlan 4005
+no vlan 4006
+no vlan 4007
+no interface vlan 4004
+no interface vlan 4005
+no interface vlan 4006
+no interface vlan 4007
